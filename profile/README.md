@@ -9,6 +9,9 @@
 
 Built for efficiency and adaptability, it is ideal for tasks such as assessing pathogenicity or cross-referencing genetic variant data. It serves as a vital tool for advancing research, improving diagnostics and supporting genomic studies.
 
+<img src="assets/kath_light.png#gh-light-mode-only" alt="Kath Light Mode">
+<img src="assets/kath_dark.png#gh-dark-mode-only" alt="Kath Dark Mode">
+
 ---
 
 ### Advisors
