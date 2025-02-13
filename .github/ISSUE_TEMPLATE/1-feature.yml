@@ -1,6 +1,6 @@
 name: Feature
 description: Create a new feature.
-title: ""
+title: "[PREFIX] "
 type: ["feature"]
 projects: ["kathteam/6","kathteam/7"]
 body:
