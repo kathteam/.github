@@ -1,6 +1,6 @@
 name: Bug
 description: File a bug report.
-title: ""
+title: "[PREFIX] "
 type: ["bug"]
 projects: ["kathteam/6","kathteam/7"]
 body:
