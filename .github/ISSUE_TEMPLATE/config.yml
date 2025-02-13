@@ -1,1 +1,5 @@
 blank_issues_enabled: false
+contact_links:
+  - name: Kath Docs
+    url: https://docs.kath.lt/
+    about: Learn more about Kath.

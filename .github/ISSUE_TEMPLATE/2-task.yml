@@ -1,0 +1,37 @@
+name: Task
+description: Define a new task.
+title: ""
+type: ["task"]
+projects: ["kathteam/6","kathteam/7"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the task you'd like to propose.
+      placeholder: What task is being proposed?
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance-criteria
+    attributes:
+      label: Acceptance Criteria
+      description: The Acceptance Criteria field should be used to clearly list the specific conditions, requirements, or scenarios that must be fulfilled for a task to be considered complete.
+      placeholder: What needs to happen for this task to be considered complete?
+    validations:
+      required: true
+  - type: textarea
+    id: technical-requirements
+    attributes:
+      label: Technical Requirements
+      description: The Technical Requirements field should be used to list any technical requirements that must be met for the task to be implemented.
+      placeholder: Are there any technical requirements that need to be met for this task to be implemented?
+    validations:
+      required: false
+  - type: input
+    id: proposed-by
+    attributes:
+      label: Proposed By
+      placeholder: Your name or username
+    validations:
+      required: true
