@@ -1,6 +1,6 @@
 name: Feature
 description: Create a new feature.
-title: "[PREFIX] "
+type: "feature"
 body:
   - type: textarea
     id: description
