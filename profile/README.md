@@ -1,5 +1,5 @@
-<img src="assets/kath_banner_light.png#gh-light-mode-only" alt="Kath Logo">
-<img src="assets/kath_banner_dark.png#gh-dark-mode-only" alt="Kath Logo">
+<img src="../assets/kath_banner_light.png#gh-light-mode-only" alt="Kath Logo">
+<img src="../assets/kath_banner_dark.png#gh-dark-mode-only" alt="Kath Logo">
 
 ---
 
@@ -9,8 +9,8 @@
 
 Built for efficiency and adaptability, it is ideal for tasks such as assessing pathogenicity or cross-referencing genetic variant data. It serves as a vital tool for advancing research, improving diagnostics and supporting genomic studies.
 
-<img src="assets/kath_light.png#gh-light-mode-only" alt="Kath Light Mode">
-<img src="assets/kath_dark.png#gh-dark-mode-only" alt="Kath Dark Mode">
+<img src="../assets/kath_light.png#gh-light-mode-only" alt="Kath Light Mode">
+<img src="../assets/kath_dark.png#gh-dark-mode-only" alt="Kath Dark Mode">
 
 ---
 
@@ -20,12 +20,12 @@ We are honored to recognize the contributions of our advisors who **bring expert
 
 <div align="center">
   <div>
-    <img src="assets/harvard_logo.png" alt="Harvard University Logo" style="width: 200px; height: auto; border-radius: 12px;">
+    <img src="../assets/harvard_logo.png" alt="Harvard University Logo" style="width: 200px; height: auto; border-radius: 12px;">
     <h3><a href="https://www.harvard.edu">Harvard University</a></h3>
     <p>Leading institution in education and research.</p>
   </div>
   <div>
-    <img src="assets/genomika_logo.png" alt="Genomika Lietuva Logo" style="width: 200px; height: auto; border-radius: 12px;">
+    <img src="../assets/genomika_logo.png" alt="Genomika Lietuva Logo" style="width: 200px; height: auto; border-radius: 12px;">
     <h3><a href="https://genomika.lt">Genomika Lietuva</a></h3>
     <p>Innovative solutions in genomics and biotechnology.</p>
   </div>
