@@ -1,7 +1,6 @@
 name: Task
 description: Define a new task.
-title: "[PREFIX] "
-type: ["task"]
+type: "task"
 projects: ["kathteam/6","kathteam/7"]
 body:
   - type: textarea
@@ -9,7 +8,7 @@ body:
     attributes:
       label: Description
       description: Describe the task you'd like to propose.
-      placeholder: What task is being proposed?
+      placeholder: What does it accomplish?
     validations:
       required: true
   - type: textarea
